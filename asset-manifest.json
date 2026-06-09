@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gosslens/static/css/main.d92cc809.css",
-    "main.js": "/gosslens/static/js/main.33836b13.js",
+    "main.css": "/gosslens/static/css/main.ece259f3.css",
+    "main.js": "/gosslens/static/js/main.dcca88c8.js",
     "static/js/453.26141847.chunk.js": "/gosslens/static/js/453.26141847.chunk.js",
     "index.html": "/gosslens/index.html",
-    "main.d92cc809.css.map": "/gosslens/static/css/main.d92cc809.css.map",
-    "main.33836b13.js.map": "/gosslens/static/js/main.33836b13.js.map",
+    "main.ece259f3.css.map": "/gosslens/static/css/main.ece259f3.css.map",
+    "main.dcca88c8.js.map": "/gosslens/static/js/main.dcca88c8.js.map",
     "453.26141847.chunk.js.map": "/gosslens/static/js/453.26141847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d92cc809.css",
-    "static/js/main.33836b13.js"
+    "static/css/main.ece259f3.css",
+    "static/js/main.dcca88c8.js"
   ]
 }
