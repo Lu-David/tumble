@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/gosslens/static/css/main.61b1a5bb.css",
-    "main.js": "/gosslens/static/js/main.7e3e3c1d.js",
-    "static/js/453.26141847.chunk.js": "/gosslens/static/js/453.26141847.chunk.js",
-    "index.html": "/gosslens/index.html",
-    "main.61b1a5bb.css.map": "/gosslens/static/css/main.61b1a5bb.css.map",
-    "main.7e3e3c1d.js.map": "/gosslens/static/js/main.7e3e3c1d.js.map",
-    "453.26141847.chunk.js.map": "/gosslens/static/js/453.26141847.chunk.js.map"
+    "main.css": "/tumble/static/css/main.e472e874.css",
+    "main.js": "/tumble/static/js/main.eeaae8e7.js",
+    "static/js/453.26141847.chunk.js": "/tumble/static/js/453.26141847.chunk.js",
+    "static/media/tumble.png": "/tumble/static/media/tumble.0d0aeb02ce1c097892fb.png",
+    "index.html": "/tumble/index.html",
+    "main.e472e874.css.map": "/tumble/static/css/main.e472e874.css.map",
+    "main.eeaae8e7.js.map": "/tumble/static/js/main.eeaae8e7.js.map",
+    "453.26141847.chunk.js.map": "/tumble/static/js/453.26141847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61b1a5bb.css",
-    "static/js/main.7e3e3c1d.js"
+    "static/css/main.e472e874.css",
+    "static/js/main.eeaae8e7.js"
   ]
 }
