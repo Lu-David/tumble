@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tumble/static/css/main.e472e874.css",
-    "main.js": "/tumble/static/js/main.a900bb45.js",
+    "main.js": "/tumble/static/js/main.069b7072.js",
     "static/js/453.26141847.chunk.js": "/tumble/static/js/453.26141847.chunk.js",
     "static/media/tumble.png": "/tumble/static/media/tumble.0d0aeb02ce1c097892fb.png",
     "index.html": "/tumble/index.html",
     "main.e472e874.css.map": "/tumble/static/css/main.e472e874.css.map",
-    "main.a900bb45.js.map": "/tumble/static/js/main.a900bb45.js.map",
+    "main.069b7072.js.map": "/tumble/static/js/main.069b7072.js.map",
     "453.26141847.chunk.js.map": "/tumble/static/js/453.26141847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e472e874.css",
-    "static/js/main.a900bb45.js"
+    "static/js/main.069b7072.js"
   ]
 }
