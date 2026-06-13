@@ -1,0 +1,39 @@
+services:
+  tumble:
+    build: .
+    container_name: tumble
+    restart: unless-stopped
+
+    env_file:
+      - .env
+
+    expose:
+      - "5000"
+
+    volumes:
+      - ./data:/app/data
+
+    devices:
+      - "/dev/i2c-1:/dev/i2c-1"
+
+    environment:
+      MOCK_I2C: false
+
+    privileged: true
+
+  caddy:
+    image: caddy:latest
+    container_name: caddy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - tumble
+
+volumes:
+  caddy_data:
+  caddy_config:

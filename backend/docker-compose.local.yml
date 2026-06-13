@@ -1,0 +1,17 @@
+services:
+  tumble:
+    build: .
+    container_name: tumble
+    restart: unless-stopped
+
+    ports:
+      - "5000:5000"
+
+    volumes:
+      - ./data:/app/data
+
+    env_file:
+      - .env
+
+    environment:
+      MOCK_I2C: true

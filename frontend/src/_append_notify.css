@@ -1,0 +1,8 @@
+/* Notification instructions */
+.notify-instructions p {
+  margin-top: 8px;
+  color: #444;
+  max-width: 640px;
+  text-align: left;
+  font-size: 0.95rem;
+}
